@@ -1,0 +1,23 @@
+.box{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+ 
+}
+
+.title{
+   
+    margin-top:30% ;
+}
+
+.title h1{
+   font-size: 5rem;
+}
+.image{
+    margin: 10rem;
+}
+
+.image img{
+  width: 20rem;
+  border-radius: 2rem;
+}
